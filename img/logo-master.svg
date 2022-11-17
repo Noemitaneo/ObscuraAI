@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="90"
+   height="17"
+   viewBox="0 0 90 17"
+   version="1.1"
+   id="svg16"
+   sodipodi:docname="logo-master.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs20" />
+  <sodipodi:namedview
+     id="namedview18"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="15.880435"
+     inkscape:cx="45.307324"
+     inkscape:cy="12.027379"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="1358"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg16" />
+  <text
+     xml:space="preserve"
+     style="font-size:16px;fill:#000000;stroke-width:1.0302"
+     x="-0.6467607"
+     y="13.414598"
+     id="text200"
+     transform="scale(0.97310835,1.0276348)"><tspan
+       sodipodi:role="line"
+       id="tspan198"
+       x="-0.6467607"
+       y="13.414598"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:Cinzel;-inkscape-font-specification:Cinzel;fill:#00d3d3;fill-opacity:1;stroke-width:1.0302">Obscura AI</tspan></text>
+</svg>
