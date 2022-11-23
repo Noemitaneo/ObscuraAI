@@ -7018,7 +7018,7 @@ p {
   margin-bottom: 1em;
   font-size: calc(var(--paragraph-min-font-size) * 1px);
   line-height: var(--paragraph-line-height);
-  color: var(--paragraph-color-dark);
+  color: var(--paragraph-color-light);
 }
 @media screen and (min-width: 320px) {
   p {
