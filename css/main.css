@@ -11463,7 +11463,7 @@ small, .small {
 .of-cover {
   width: 100%;
   height: 100%;
-  -o-object-fit: cover;
+  -o-object-fit: cover;graysca
      object-fit: cover;
   font-family: "object-fit: cover;";
 }
